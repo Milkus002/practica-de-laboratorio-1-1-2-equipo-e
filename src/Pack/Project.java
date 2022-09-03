@@ -21,10 +21,7 @@ public class Project {
 		throw new UnsupportedOperationException();
 	}
 
-	/**
-	 * 
-	 * @param theResources
-	 */
+
 	public void setTheResources(int theResources) {
 		this.theResources = theResources;
 	}
